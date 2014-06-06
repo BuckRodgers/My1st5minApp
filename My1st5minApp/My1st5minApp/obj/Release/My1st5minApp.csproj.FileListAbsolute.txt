@@ -68,3 +68,4 @@ C:\Users\Ryan Lee\Documents\GitHub\My1st5minApp\My1st5minApp\My1st5minApp\bin\zh
 C:\Users\Ryan Lee\Documents\GitHub\My1st5minApp\My1st5minApp\My1st5minApp\bin\zh-Hant\System.Spatial.resources.dll
 C:\Users\Ryan Lee\Documents\GitHub\My1st5minApp\My1st5minApp\My1st5minApp\obj\Release\My1st5minApp.dll
 C:\Users\Ryan Lee\Documents\GitHub\My1st5minApp\My1st5minApp\My1st5minApp\obj\Release\My1st5minApp.pdb
+C:\Users\Ryan Lee\Documents\GitHub\My1st5minApp\My1st5minApp\My1st5minApp\obj\Release\My1st5minApp.csprojResolveAssemblyReference.cache
